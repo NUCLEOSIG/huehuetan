@@ -2,6 +2,7 @@
 # HUEHUETAN
 
 Página del municipio de Huehuetán, creando módulos para cargar reportes de gastos de tesorería, implementación en WordPress área de noticias e informes de actividades.
+Creada en Octubre 2018 terminando contrato en octubre 2021
 
 
 
